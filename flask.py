@@ -5,3 +5,4 @@ def test():
 num3 = 3000
 num3 = 30
 num4 = 1000
+num5 = 500
