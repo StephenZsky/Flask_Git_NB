@@ -4,3 +4,4 @@ def test():
     print("I Love You")
 num3 = 3000
 num3 = 30
+num4 = 1000
